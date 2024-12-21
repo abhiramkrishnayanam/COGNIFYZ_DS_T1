@@ -1,7 +1,7 @@
 # COGNIFYZ_DS_T1
 # Task 1 : Data Exploration and Preprocessing:
 ## Understanding the Data
-The dataset appears to contain detailed information about restaurants, likely from a restaurant review or food delivery platform. 
+The dataset appears to contain detailed information about <span style="color:blue;"> restaurants, likely from a restaurant review or food delivery platform. </span>
 ##### Dataset Use Cases
 This dataset is likely about restaurant reviews, ratings, and delivery services and can be used for:
 
